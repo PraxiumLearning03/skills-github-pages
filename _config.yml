@@ -9,14 +9,3 @@ author: PraxiumLearning03
 
 # Description of the site
 description: This is where I share cool stuff
-
-# Social Media Links (optional)
-social:
-  github: https://github.com/PraxiumLearning03
-  linkedin: https://linkedin.com/in/praxiumlearning03
-
-# Optional: Add more configurations here (e.g., custom CSS, JS, or metadata)
-extra:
-  meta:
-    keywords: "personal blog, learning, tech, army, leadership"
-    og:image: "https://example.com/cover.jpg" # Replace with your image URL
