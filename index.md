@@ -107,3 +107,11 @@ I am not just a soldier—I’m a visionary. My journey from homeschooled studen
 
 ---  
 *“The best way to predict the future is to create it.” — Peter Drucker*
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
